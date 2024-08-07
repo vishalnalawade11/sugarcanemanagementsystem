@@ -9,6 +9,7 @@ import Footer from "./Components/footer/Footer";
 import { Outlet } from 'react-router-dom';
 import Router from './Router/Router';
 
+
 function App() {
   return (
     <div>
